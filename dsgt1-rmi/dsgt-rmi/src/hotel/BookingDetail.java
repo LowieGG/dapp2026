@@ -1,8 +1,10 @@
 package hotel;
 
+import java.io.Serializable;
 import java.time.LocalDate;
 
-public class BookingDetail {
+public class BookingDetail implements Serializable {
+	private static final long serialVersionUID = 1L;
 
 	private String guest;
 	private Integer roomNumber;
