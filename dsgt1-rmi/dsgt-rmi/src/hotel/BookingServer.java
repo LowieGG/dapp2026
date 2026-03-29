@@ -10,8 +10,8 @@ public class BookingServer {
             // Maak BookingManager instantie
             BookingManager manager = new BookingManager();
 
-            // Exporteer als remote object
-            IBookingManager stub = (IBookingManager) UnicastRemoteObject.exportObject(manager, 0);
+            // Exporteer BookingManager als remote object op specifieke port
+            IBookingManager stub = (IBookingManager) UnicastRemoteObject.exportObject(manager, 1100);
 
             // Bind aan RMI registry
             Registry registry = LocateRegistry.getRegistry();
