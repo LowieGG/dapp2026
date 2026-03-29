@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="451b1515-b8d5-41a9-b0aa-0e1e9c2e3618" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/hotel/BookingServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hotel/IBookingManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hotel/BookingDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hotel/BookingDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hotel/BookingSession.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hotel/IBookinogSession.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/staff/SessionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/hotel/BookingManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/hotel/BookingManager.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/hotel/BookingManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hotel/BookingManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/staff/BookingClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/staff/BookingClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hotel/IBookingManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hotel/IBookingManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/staff/ConcurrentBookingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/staff/ConcurrentBookingTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +32,7 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
