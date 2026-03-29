@@ -2,8 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="451b1515-b8d5-41a9-b0aa-0e1e9c2e3618" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/staff/RemoteTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hotel/BookingServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hotel/BookingServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/hotel/BookingDetail.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/hotel/BookingDetail.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/hotel/BookingManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/hotel/BookingManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/hotel/BookingServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/hotel/BookingServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/hotel/BookingSession.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/hotel/BookingSession.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/hotel/IBookingManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/hotel/IBookingManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/hotel/IBookingSession.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/hotel/IBookingSession.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/hotel/Room.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/hotel/Room.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/staff/AbstractScriptedSimpleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/staff/AbstractScriptedSimpleTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/staff/BookingClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/staff/BookingClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/staff/ConcurrentBookingTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/staff/ConcurrentBookingTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/staff/SessionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/staff/SessionTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
