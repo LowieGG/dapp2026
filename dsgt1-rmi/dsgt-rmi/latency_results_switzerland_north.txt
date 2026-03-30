@@ -1,0 +1,56 @@
+Testing latency from local VM to Azure Switzerland North
+
+Request 1: 28 ms
+Request 2: 28 ms
+Request 3: 35 ms
+Request 4: 29 ms
+Request 5: 25 ms
+Request 6: 28 ms
+Request 7: 30 ms
+Request 8: 28 ms
+Request 9: 28 ms
+Request 10: 36 ms
+Request 11: 29 ms
+Request 12: 28 ms
+Request 13: 27 ms
+Request 14: 26 ms
+Request 15: 26 ms
+Request 16: 28 ms
+Request 17: 41 ms
+Request 18: 29 ms
+Request 19: 28 ms
+Request 20: 27 ms
+Request 21: 31 ms
+Request 22: 30 ms
+Request 23: 26 ms
+Request 24: 32 ms
+Request 25: 30 ms
+Request 26: 27 ms
+Request 27: 30 ms
+Request 28: 30 ms
+Request 29: 28 ms
+Request 30: 26 ms
+Request 31: 34 ms
+Request 32: 34 ms
+Request 33: 26 ms
+Request 34: 29 ms
+Request 35: 28 ms
+Request 36: 33 ms
+Request 37: 30 ms
+Request 38: 30 ms
+Request 39: 28 ms
+Request 40: 32 ms
+Request 41: 28 ms
+Request 42: 33 ms
+Request 43: 29 ms
+Request 44: 28 ms
+Request 45: 26 ms
+Request 46: 28 ms
+Request 47: 26 ms
+Request 48: 30 ms
+Request 49: 27 ms
+Request 50: 29 ms
+
+=== Results ===
+Total requests: 50
+Average latency: 29.24 ms
