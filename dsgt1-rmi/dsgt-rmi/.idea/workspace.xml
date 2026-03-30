@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="451b1515-b8d5-41a9-b0aa-0e1e9c2e3618" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/staff/ThroughputTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/staff/LoadTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
