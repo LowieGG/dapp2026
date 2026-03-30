@@ -11,9 +11,9 @@ public interface IBookingManager extends Remote {
     void addBooking(BookingDetail bookingDetail) throws RemoteException, Exception;
     Set<Integer> getAvailableRooms(LocalDate date) throws RemoteException;
 
-    // NIEUW: Session management
+    // Session management
     IBookingSession createSession() throws RemoteException;
 
-    // NIEUW: Voor rollback functionaliteit
+    // Voor rollback functionaliteit
     void removeBooking(BookingDetail bookingDetail) throws RemoteException;
 }

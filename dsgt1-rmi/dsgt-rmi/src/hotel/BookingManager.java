@@ -41,8 +41,8 @@ public class BookingManager implements IBookingManager {
 
 		lock.lock();
 		try {
-			// Simuleer traag proces (om concurrency problemen te testen)
-			Thread.sleep(100);
+			// Simuleer traag proces (om concurrency problemen te testen) 100ms
+			Thread.sleep(0);
 
 			Room room = findRoom(roomNumber);
 			if (room == null) {
@@ -75,7 +75,7 @@ public class BookingManager implements IBookingManager {
 		lock.lock();
 		try {
 			// Simuleer traag proces (om concurrency problemen te testen)
-			Thread.sleep(200);
+			Thread.sleep(100);
 
 			if (!isRoomAvailableInternal(roomNumber, bookingDetail.getDate())) {
 				throw new Exception("Room " + roomNumber +

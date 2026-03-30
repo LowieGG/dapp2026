@@ -12,8 +12,8 @@ public class ThroughputTest {
 
     public static void main(String[] args) throws Exception {
         String server = "lowie.switzerlandnorth.cloudapp.azure.com";
-        int numClients = 10; // Aantal parallelle clients
-        int requestsPerClient = 20; // Requests per client
+        int numClients = 100; // Aantal parallelle clients
+        int requestsPerClient = 200; // Requests per client
 
         System.out.println("=== Throughput Test ===");
         System.out.println("Clients: " + numClients);

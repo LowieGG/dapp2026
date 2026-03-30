@@ -18,7 +18,7 @@ public class BookingClient extends AbstractScriptedSimpleTest {
 	public BookingClient() {
 		try {
 			// Look up the registered remote instance
-			Registry registry = LocateRegistry.getRegistry("localhost");
+			Registry registry = LocateRegistry.getRegistry("lowie.switzerlandnorth.cloudapp.azure.com");
 			bm = (IBookingManager) registry.lookup("BookingManager");
 		} catch (Exception exp) {
 			exp.printStackTrace();

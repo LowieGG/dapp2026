@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="451b1515-b8d5-41a9-b0aa-0e1e9c2e3618" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/staff/LoadTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/hotel/BookingManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/hotel/BookingManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/hotel/BookingServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/hotel/BookingServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/staff/BookingClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/staff/BookingClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/staff/ThroughputTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/staff/ThroughputTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hotel/BookingManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hotel/BookingManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hotel/BookingServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hotel/BookingServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hotel/IBookingManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hotel/IBookingManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/staff/BookingClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/staff/BookingClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/staff/ThroughputTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/staff/ThroughputTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
