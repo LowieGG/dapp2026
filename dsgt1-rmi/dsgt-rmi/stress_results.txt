@@ -1,0 +1,33 @@
+=== STRESS TEST: Finding Breaking Point ===
+
+
+--- Testing with 100 concurrent clients ---
+Duration: 5146 ms (5 seconds)
+Successful: 5000 / 5000
+Failed: 0
+Success rate: 100.0%
+Throughput: 971.63 req/s
+Cooling down for 10 seconds...
+
+--- Testing with 200 concurrent clients ---
+Duration: 5965 ms (5 seconds)
+Successful: 10000 / 10000
+Failed: 0
+Success rate: 100.0%
+Throughput: 1676.45 req/s
+Cooling down for 10 seconds...
+
+--- Testing with 500 concurrent clients ---
+Duration: 61174 ms (61 seconds)
+Successful: 24900 / 25000
+Failed: 100
+Success rate: 99.6%
+Throughput: 407.04 req/s
+Cooling down for 10 seconds...
+
+--- Testing with 1000 concurrent clients ---
+⚠ TIMEOUT: Not all clients completed in 5 minutes
+
+❌ BREAKING POINT FOUND at 1000 clients!
+
+=== Test Complete ===
